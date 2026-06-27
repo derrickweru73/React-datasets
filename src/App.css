@@ -6,4 +6,10 @@
   --text: #1f2937;
 }
 
- 
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text);
+}
+
