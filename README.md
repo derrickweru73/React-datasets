@@ -74,13 +74,12 @@ react-datasets/
 ├──  
 ├── src/
 │   ├── assets/
-│   │   └── styles/
-│   │       └── global.css
+│   │   └──  
 │   ├── components/
-│   │   ├── AnalyticsSidebar.jsx
-│   │   ├── ControlPanel.jsx
-│   │   ├── DatasetGrid.jsx
-│   │   ├── MediaCard.jsx
+│   │   ├── MovieItem.jsx
+│   │   ├── MovieList.jsx
+│   │   ├── MovieForm.jsx
+│   │   ├──  
 │   │   └── Navbar.jsx
 │   ├── data/
 │   │   ├── books.json
